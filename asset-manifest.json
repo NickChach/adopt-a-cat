@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adopt-a-cat/static/css/main.a8cef90f.css",
+    "main.js": "/adopt-a-cat/static/js/main.f3137a0f.js",
+    "index.html": "/adopt-a-cat/index.html",
+    "main.a8cef90f.css.map": "/adopt-a-cat/static/css/main.a8cef90f.css.map",
+    "main.f3137a0f.js.map": "/adopt-a-cat/static/js/main.f3137a0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8cef90f.css",
+    "static/js/main.f3137a0f.js"
+  ]
+}
