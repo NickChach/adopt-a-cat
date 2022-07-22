@@ -1,0 +1,32 @@
+.card {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 1.5rem;
+    border: #15616D 3px solid;
+    border-radius: 1rem;
+    background-color: #E0E0E0;
+}
+
+.card img {
+    width: 180px;
+    height: auto;
+}
+
+.card h2, .card p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+
+@media (max-width: 575px) {
+    .card {
+        width: 75%;
+    }
+}

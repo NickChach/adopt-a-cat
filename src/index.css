@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  --silver: #C0C0C0;
+  --blue: #001524;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--silver);
+  color: var(--blue);
+}
